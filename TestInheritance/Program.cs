@@ -27,6 +27,8 @@ namespace TestInheritance
 
             EmployeeList.Add(emp1);
             EmployeeList.Add(mg1);
+            // create an object on the fly 
+            EmployeeList.Add(new CEO("Tommy Lewis","555555555",1,1000000000,10000000));
 
             for (int i = 0; i < EmployeeList.Count; i++)
             {

@@ -1,0 +1,6 @@
+c:\users\kamel\documents\visual studio 2015\Projects\TestInheritance\TestInheritance\bin\Debug\TestInheritance.exe.config
+c:\users\kamel\documents\visual studio 2015\Projects\TestInheritance\TestInheritance\bin\Debug\TestInheritance.exe
+c:\users\kamel\documents\visual studio 2015\Projects\TestInheritance\TestInheritance\bin\Debug\TestInheritance.pdb
+c:\users\kamel\documents\visual studio 2015\Projects\TestInheritance\TestInheritance\obj\Debug\TestInheritance.csprojResolveAssemblyReference.cache
+c:\users\kamel\documents\visual studio 2015\Projects\TestInheritance\TestInheritance\obj\Debug\TestInheritance.exe
+c:\users\kamel\documents\visual studio 2015\Projects\TestInheritance\TestInheritance\obj\Debug\TestInheritance.pdb
